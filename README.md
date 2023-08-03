@@ -64,7 +64,7 @@ Here are a few interesting features of this Jekyll theme:
 - Full Rouge support for syntax highlighting. (Currently using `base16.solarized.light`)
 - Auto-generated RSS feed, sitemap, accessibility features, and search-engine optimization.
 
-## Installation
+## tujgh
 
 ### Prerequisites
 
